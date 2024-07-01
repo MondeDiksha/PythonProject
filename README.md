@@ -3,7 +3,7 @@
 
 1) Date and time viwer
 2) Digital Clock
-3) 
+3) User Choice via Radio Buttons
 
 
 
